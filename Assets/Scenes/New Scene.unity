@@ -731,7 +731,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 36.430313
+  field of view: 33.912025
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -926,8 +926,8 @@ Canvas:
   m_GameObject: {fileID: 1567384539}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
-  m_Camera: {fileID: 0}
+  m_RenderMode: 1
+  m_Camera: {fileID: 1503361957}
   m_PlaneDistance: 100
   m_PixelPerfect: 1
   m_ReceivesEvents: 1
@@ -984,9 +984,9 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1891246672}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -50.75}
-  m_LocalScale: {x: 1.2489768, y: 0.99116, z: 0.99116}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -50.74999}
+  m_LocalScale: {x: 19.46135, y: 15.444089, z: 15.444089}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1567384543}
@@ -994,8 +994,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -417.67, y: -203.59}
-  m_SizeDelta: {x: 47.0619, y: 2.8939}
+  m_AnchoredPosition: {x: 166, y: 911}
+  m_SizeDelta: {x: 137.64, y: 17.68}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1891246674
 MonoBehaviour:
@@ -1046,8 +1046,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 2
-  m_fontSizeBase: 2
+  m_fontSize: 10
+  m_fontSizeBase: 10
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1082,7 +1082,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0.23347563, z: 23.103575, w: 0.8543351}
+  m_margin: {x: 0, y: 0.23347563, z: 3.9223728, w: 0.8543351}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
