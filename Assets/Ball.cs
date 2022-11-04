@@ -10,7 +10,7 @@ public class Ball : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Launcher();
+        Launch();
     }
 
     // Update is called once per frame
