@@ -25,12 +25,12 @@ public class LoginValidation : MonoBehaviour
         }
         else if (uname == "" || pass == "")
         {
-            Debug.Log("Please Enter Username And Password...");
+            Debug.Log("Please Enter Username And Password And Try Again...");
             ScreenPanel.SetActive(true);
         }
         else
         {
-            Debug.Log("Please Enter Correct Username And Password...");
+            Debug.Log("Please Enter Correct Username And Password And Try Again...");
             ScreenPanel.SetActive(true);
         }
     }
